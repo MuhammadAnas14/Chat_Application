@@ -83,7 +83,7 @@ Ensure you have the following installed:
 ## Screenshot
 Below is an example of the real-time chat in action:
 
-![Real-time Chat Screenshot](https://ibb.co/gFf1vGNj)
+![Real-time Chat Screenshot](./public/ScreenShot.png)
 
 
 ---
