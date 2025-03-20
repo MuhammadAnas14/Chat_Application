@@ -83,7 +83,7 @@ Ensure you have the following installed:
 ## Screenshot
 Below is an example of the real-time chat in action:
 
-![Real-time Chat Screenshot](./chat-screenshot.png)
+![Real-time Chat Screenshot](./frontend/public/chat-screenshot.png)
 
 ## Troubleshooting
 - If the frontend doesn’t connect to the backend, ensure both servers are running.
