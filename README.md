@@ -83,17 +83,7 @@ Ensure you have the following installed:
 ## Screenshot
 Below is an example of the real-time chat in action:
 
-![Real-time Chat Screenshot](./frontend/public/chat-screenshot.png)
-
-## Troubleshooting
-- If the frontend doesn’t connect to the backend, ensure both servers are running.
-- If messages don’t appear, check the console for Socket.IO connection errors.
-- If the sphere animation isn’t working, ensure Three.js is correctly installed.
-
-## Future Enhancements
-- Move from file-based storage to a database like MongoDB or PostgreSQL.
-- Improve UI with additional animations and themes.
-- Implement typing indicators and online status tracking.
+![Real-time Chat Screenshot](./frontend/public/ScreenShot.png)
 
 ---
 ### Enjoy chatting in real-time with this interactive messaging application! 🚀
