@@ -1,0 +1,26 @@
+[
+  {
+    "id": "580cff26-b519-4498-9d04-52256884fa7c",
+    "name": "Muhammad Anas",
+    "email": "anasm9877@gmail.com",
+    "password": "anas12345"
+  },
+  {
+    "id": "cee5a210-71a1-4f15-88e1-fa34fc0a55cb",
+    "name": "John Wick",
+    "email": "john@gmail.com",
+    "password": "john123"
+  },
+  {
+    "id": "2c1ff1f5-0168-4e12-8615-74082a5a9f91",
+    "name": "Julia Rick ",
+    "email": "julia@gmail.com",
+    "password": "julia12345"
+  },
+  {
+    "id": "621842fc-886b-4b53-89ad-a1f2b5e5c23c",
+    "name": "try 1  ",
+    "email": "try@gmail.com",
+    "password": "try1234"
+  }
+]

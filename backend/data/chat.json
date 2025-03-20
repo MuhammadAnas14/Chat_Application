@@ -1,0 +1,44 @@
+[
+  {
+    "senderId": "580cff26-b519-4498-9d04-52256884fa7c",
+    "recipientId": "cee5a210-71a1-4f15-88e1-fa34fc0a55cb",
+    "text": "hello",
+    "time": "3:02:59 PM"
+  },
+  {
+    "senderId": "cee5a210-71a1-4f15-88e1-fa34fc0a55cb",
+    "recipientId": "580cff26-b519-4498-9d04-52256884fa7c",
+    "text": "hi",
+    "time": "3:03:14 PM"
+  },
+  {
+    "senderId": "580cff26-b519-4498-9d04-52256884fa7c",
+    "recipientId": "cee5a210-71a1-4f15-88e1-fa34fc0a55cb",
+    "text": "how are you",
+    "time": "3:06:06 PM"
+  },
+  {
+    "senderId": "cee5a210-71a1-4f15-88e1-fa34fc0a55cb",
+    "recipientId": "580cff26-b519-4498-9d04-52256884fa7c",
+    "text": "I am good",
+    "time": "3:06:22 PM"
+  },
+  {
+    "senderId": "580cff26-b519-4498-9d04-52256884fa7c",
+    "recipientId": "621842fc-886b-4b53-89ad-a1f2b5e5c23c",
+    "text": "hello",
+    "time": "3:10:30 PM"
+  },
+  {
+    "senderId": "580cff26-b519-4498-9d04-52256884fa7c",
+    "recipientId": "cee5a210-71a1-4f15-88e1-fa34fc0a55cb",
+    "text": "How was your day?",
+    "time": "3:36:23 PM"
+  },
+  {
+    "senderId": "cee5a210-71a1-4f15-88e1-fa34fc0a55cb",
+    "recipientId": "580cff26-b519-4498-9d04-52256884fa7c",
+    "text": "it was good",
+    "time": "3:36:36 PM"
+  }
+]
